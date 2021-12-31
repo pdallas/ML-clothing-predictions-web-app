@@ -1,5 +1,5 @@
 # ML-clothing-predictions-web-app
-A web application based on Streamlit framework. The datasets that we used in order to train the models are from Zalando's article images, fashion-mnist, source; https://www.kaggle.com/zalando-research/fashionmnist
+A web application based on the Streamlit framework, that is capable of categorizing images provided by a user with different methods.
 
 This web application allows us to classify clothing images into 10 categories that are referred to the Fashion Mnist Dataset. In the navigation menu on the left of the main page, we can see all the options given to the user as well as the option “About us”, where the details about the creators  with contact information are listed. A preview of the home menu of the application is given below:
 

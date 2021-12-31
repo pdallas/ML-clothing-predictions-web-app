@@ -4,4 +4,4 @@ A web application based on Streamlit framework. The datasets that i used in orde
 A preview of the web application is shown below.
 
 ![alt text](https://github.com/pdallas/ML-clothing-predictions-web-app
-/blob/master/web-app/app images/app-home.jpg?raw=true)
+/blob/master/app-home.jpg?raw=true)
